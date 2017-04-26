@@ -1,6 +1,6 @@
 # npmtest-node-http-proxy
 
-#### test coverage for  [node-http-proxy (v0.2.3)](https://github.com/wddqing/node-http-proxy)  [![npm package](https://img.shields.io/npm/v/npmtest-node-http-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-http-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-http-proxy.svg)](https://travis-ci.org/npmtest/node-npmtest-node-http-proxy)
+#### basic test coverage for  [node-http-proxy (v0.2.3)](https://github.com/wddqing/node-http-proxy)  [![npm package](https://img.shields.io/npm/v/npmtest-node-http-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-http-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-http-proxy.svg)](https://travis-ci.org/npmtest/node-npmtest-node-http-proxy)
 
 #### a http(s) proxy server
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-http-proxy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-http-proxy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-http-proxy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-http-proxy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-http-proxy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-http-proxy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-http-proxy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-http-proxy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-http-proxy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-http-proxy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-http-proxy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-http-proxy/build/coverage.html/index.html)
 
